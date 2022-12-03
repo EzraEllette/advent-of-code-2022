@@ -8,4 +8,8 @@ edition = "2021"
 name = "1"
 path = "bin/1/main.rs"
 
+[[bin]]
+name = "1_2"
+path = "bin/1_2/main.rs"
+
 [dependencies]
