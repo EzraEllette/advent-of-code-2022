@@ -12,4 +12,12 @@ path = "bin/1/main.rs"
 name = "1_2"
 path = "bin/1_2/main.rs"
 
+[[bin]]
+name = "2"
+path = "bin/2/main.rs"
+
+[[bin]]
+name = "2_2"
+path = "bin/2_2/main.rs"
+
 [dependencies]
