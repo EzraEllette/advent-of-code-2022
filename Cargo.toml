@@ -20,4 +20,8 @@ path = "bin/2/main.rs"
 name = "2_2"
 path = "bin/2_2/main.rs"
 
+[[bin]]
+name = "2_match"
+path = "bin/2_match/main.rs"
+
 [dependencies]
